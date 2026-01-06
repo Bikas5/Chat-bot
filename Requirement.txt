@@ -1,0 +1,7 @@
+Install Dotenv Library:
+
+py -m pip install python-dotenv
+
+Instsll reuired Library:
+
+py -m pip install google-genai
